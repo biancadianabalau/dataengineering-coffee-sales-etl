@@ -4,8 +4,8 @@ This project contains a Python ETL (Extract, Transform, Load) script designed to
 
 The script ingests raw CSV data, applies complex cleaning rules, logically imputes missing numerical values, and exports a clean "Gold layer" dataset ready for analysis or visualization.
 
-Data Source: The original raw dataset is available on Kaggle: 👉 Dirty Cafe Sales Data for Cleaning Training
-
+Data Source: The original raw dataset is available on Kaggle: 👉 [Dirty Cafe Sales Data for Cleaning Training
+](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)
    How to Use
 
 Download the dataset (dirty_cafe_sales.csv) from the link above.
