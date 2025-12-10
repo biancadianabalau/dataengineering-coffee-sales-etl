@@ -6,7 +6,8 @@ The script ingests raw CSV data, applies complex cleaning rules, logically imput
 
 Data Source: The original raw dataset is available on Kaggle: 👉 Dirty Cafe Sales Data for Cleaning Training
 
-  🚀 How to Use
+   How to Use
+
 Download the dataset (dirty_cafe_sales.csv) from the link above.
 Open the Python script and update the file paths to match your local directory structure:
 Python
